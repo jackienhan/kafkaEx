@@ -1,0 +1,5 @@
+package important.adapter_02;
+
+public interface MediaPlayer {
+    void play(String audioType, String fileName);
+}
